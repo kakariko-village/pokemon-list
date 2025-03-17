@@ -14,7 +14,7 @@ npm install
 # or
 
 bun install
-
+```
 Last, open another Terminal /Command Prompt in the same project directory. Start the NextJS server with this command:
 
 ```bash
