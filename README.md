@@ -15,7 +15,7 @@ npm install
 
 bun install
 ```
-Last, open another Terminal /Command Prompt in the same project directory. Start the NextJS server with this command:
+Last, open another Terminal /Command Prompt in the same project directory.  I don't add .env file to .gitignore so feel free to run the project with this command:
 
 ```bash
 npm  run  dev
@@ -26,5 +26,3 @@ bun  run dev
 ```
 Now you can access the project by using this URL on your browser: http://localhost:3000/
 I worked on this project on Sunday. I didn't work on it continuously as it was interrupted by household chores, but the estimated time to complete it was nearly 3 hours.
-
- 
